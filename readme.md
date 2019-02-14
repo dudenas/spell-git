@@ -1,1 +1,1 @@
-this is the spell directory for some tutorials
+this is the spell directory for upcoming tutorials in coding train
