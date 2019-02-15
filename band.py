@@ -1,7 +1,9 @@
 import json
 import random
+import sys
 
-data = json.loads(open("instruments.json").read())
+filename = sys.argv[1]
+data = json.loads(open(filename).read())
 instruments = data['instruments']
 
 band = random.sample(instruments, 10)
