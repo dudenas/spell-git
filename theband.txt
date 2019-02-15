@@ -1,11 +1,11 @@
 The Randoms: 
+glockenspiel
+tuba
+trombone
+guitar
+clavichord
 sousaphone
-bass guitar
-lute
-fife
-violin
-harmonica
-lyre
-piccolo
+fiddle
+tambourine
+bugle
 baby grand piano
-kick drum
